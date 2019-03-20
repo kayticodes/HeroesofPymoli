@@ -1,0 +1,1 @@
+This data was provided by the UCBX bootcamp. It is meant to be imported in Pandas through Jupyter notebooks as a .csv file. The data has been cleaned for this exercise. 

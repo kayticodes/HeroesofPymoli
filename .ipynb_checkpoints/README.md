@@ -1,0 +1,1 @@
+This is a checkpoint document provided by the UCBX staff to accompany the class assignment. 
